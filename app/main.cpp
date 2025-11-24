@@ -8,5 +8,7 @@ int main(int, char**)
 
     std::cout << "Hello, Git Test." << std::endl;
 
+    std::cout << "New version." << std::endl;
+
     return 0;
 }
