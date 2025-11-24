@@ -12,5 +12,7 @@ int main(int, char**)
 
     std::cout << "Working Office." << std::endl;
 
+    std::cout << "Working Home" << std::endl;
+
     return 0;
 }
