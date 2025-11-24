@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/zeta/cmake_sample/build/app",
+  "command": "/usr/bin/c++  -I/home/zeta/cmake_sample/mathlib -g -o CMakeFiles/app.dir/main.cpp.o -c /home/zeta/cmake_sample/app/main.cpp",
+  "file": "/home/zeta/cmake_sample/app/main.cpp"
+},
+{
+  "directory": "/home/zeta/cmake_sample/build/mathlib",
+  "command": "/usr/bin/c++ -Dmathlib_EXPORTS -I/home/zeta/cmake_sample/mathlib -g -fPIC -o CMakeFiles/mathlib.dir/my_math.cpp.o -c /home/zeta/cmake_sample/mathlib/my_math.cpp",
+  "file": "/home/zeta/cmake_sample/mathlib/my_math.cpp"
+}
+]
