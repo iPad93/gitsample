@@ -10,5 +10,7 @@ int main(int, char**)
 
     std::cout << "New version." << std::endl;
 
+    std::cout << "Working Office." << std::endl;
+
     return 0;
 }
